@@ -1,0 +1,20 @@
+Plants,Producers and Decomposers,0,Pika|Red-breasted nuthatch|Pacific tree frog|Edith's checkerspot|Douglas's squirrel|Mule deer
+Flowers,Producers and Decomposers,0,Pika|Red-breasted nuthatch|Pacific tree frog|Edith's checkerspot|Douglas's squirrel|Mule deer
+Nuts,Producers and Decomposers,0,Pika|Red-breasted nuthatch|Pacific tree frog|Edith's checkerspot|Douglas's squirrel|Mule deer
+Seeds,Producers and Decomposers,0,Pika|Red-breasted nuthatch|Pacific tree frog|Edith's checkerspot|Douglas's squirrel|Mule deer
+Fruits,Producers and Decomposers,0,Pika|Red-breasted nuthatch|Pacific tree frog|Edith's checkerspot|Douglas's squirrel|Mule deer
+Insects,Producers and Decomposers,0,Pika|Red-breasted nuthatch|Pacific tree frog|Edith's checkerspot|Douglas's squirrel|Mule deer
+Pika,Primary Consumers,1,Ringtail|Western whiptail|Raven|Black tipped jackrabbit|Pine marten
+Red-breasted nuthatch,Primary Consumers,1,Western whiptail
+Pacific tree fog,Primary Consumers,1,Ringtail|Western whiptail|Raven|Black tipped jackrabbit|Pine marten
+Edith's checkerspot,Primary Consumers,1,Western whiptail|Raven|Black tipped jackrabbit
+Douglas's squirrel,Primary Consumers,1,Ringtail|Raven|Black tipped jackrabbit|Pine marten
+Mule deer,Primary Consumers,1,Coyote|Mountain lion
+Ringtail,Primary Consumers,2,Coyote|Mountain lion|Bobcat
+Western whiptail,Primary Consumers,2,Coyote|Mountain lion|Bobcat
+Raven,Primary Consumers,2,None
+Black tipped jackrabbit,Primary Consumers,2,Coyote|Mountain lion|Bobcat
+Pine marten,Primary Consumers,2,Mountain lion|Bobcat
+Coyote,Tertiary Consumers,3,None
+Mountain lion,Tertiary Consumers,3,None
+Bobcat,Tertiary Consumers,3,None
